@@ -1,0 +1,210 @@
+-- Errors (209) --
+Error downloading url [https://www.jstor.org/stable/j.ctt1npnwt] for mod [1498 Florence_init.html]: HTTP Error 403: Forbidden
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1498 Florence_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1498 Florence_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Glenn_R._Davis.jpg/220px-Glenn_R._Davis.jpg] for mod [1498 Florence_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/163050896_139835884710543_5582945645742237853_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=v0SGGq9OZ3IAX82VLOw&_nc_ht=scontent-ort2-1.xx&oh=85a3f8528600fa7be7dac0aa0b418618&oe=61A8AE97] for mod [1498 Florence_init.html]: [Errno socket error] [Errno 11001] getaddrinfo failed
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1848b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1852T_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1876_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [1946_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [1946_NixonOld Party.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [1946_VoorhisParty.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://github.com/TedThing/Images/blob/main/Intro.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/GeorgeAdvisor.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/1964L.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/1968L.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/1972L.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/1976L.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/1980L.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Intro.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeProfile.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/FanninPortrait.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/TaftPortrait.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/JuddPortrait.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Bannernew.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Blue.png?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/BackgroundNew.jpg?raw=true] for mod [1964DraftLodge_init.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeProfile.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/FanninPortrait.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Walkerending.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeCanon.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Boston.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/DecentMargin.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/FanninBig.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LegacyBnW.png?raw=true] for mod [1964DraftLodge_LodgeFannin.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeProfile.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/JuddPortrait.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Walkerending.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/MoralMajority.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Boston.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/DecentMargin.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/NoFanninBig.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LegacyBnW.png?raw=true] for mod [1964DraftLodge_LodgeJudd.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeProfile.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/TaftPortrait.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Walkerending.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeTaftTogether.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Boston.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/Johnsonending.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/DecentMargin.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/NoFanninBig.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LodgeSIEnding.jpg?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://github.com/TedThing/Images/blob/main/LegacyBnW.png?raw=true] for mod [1964DraftLodge_LodgeTaft.html]: HTTP Error 302: Found
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_GoldwaterLuce_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_GoldwaterLuce_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_GoldwaterMiller_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_GoldwaterMiller_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_GoldwaterScranton_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_GoldwaterScranton_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_McCarthyMcGovern_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_McCarthyMcGovern_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_McCarthyReuther.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_McCarthyReuther_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_McCarthyReuther_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_WallaceErvin_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_WallaceErvin_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_WallaceFaubus_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_WallaceFaubus_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://upload.wikimedia.org/wikipedia/commons/6/64/SamYorty.jpg] for mod [1964d_WallaceYorty_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://i.lensdump.com/i/ZDS2oq.jpg] for mod [1964d_WallaceYorty_init.html]: HTTP Error 302: Moved Temporarily
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_GoldwaterMiller_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_GoldwaterRomney_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_GoldwaterScranton_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_KennedyHumphrey_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_KennedyJohnson_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_KennedySanford_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1964Viva_KennedySymington_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://imgur.com/ZwGSpgP.gif] for mod [1968Sumner_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://img.thedailybeast.com/image/upload/v1492113692/articles/2016/04/03/how-george-wallace-harnessed-hate/160402-frady-george-wallace-tease_jtmian.jpg] for mod [1968Viva_init.html]: HTTP Error 403: Forbidden
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://cdn.discordapp.com/attachments/868033355424362506/889787195882344478/unknown.png] for mod [1972b_init.html]: HTTP Error 404: Not Found
+Error downloading url [https://doi.org/10.1111/pech.12458] for mod [1972d_init.html]: HTTP Error 302: Found
+Error downloading url [https://doi.org/10.14321/jstudradi.8.2.0109] for mod [1972d_init.html]: HTTP Error 302: Found
+Error downloading url [https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2324&amp] for mod [1972d_init.html]: HTTP Error 400: Bad Request
+Error downloading url [https://lareviewofbooks.org/wp-content/uploads/2017/05/MostromYockey.png] for mod [1972TNO_HallRobeson.html]: HTTP Error 308: Permanent Redirect
+Error downloading url [https://cdn.videos.rollcall.com/blogs/sites/29/2016/02/AP_183434316524.jpg?resize=445%2C283?w=1024] for mod [1972TNO_HallRobeson.html]: [Errno socket error] [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1002)
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernChisholm_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernChisholm_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernEagleton_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernEagleton_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernFarenthold_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernFarenthold_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernGravel_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernGravel_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernMondale_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernMondale_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1972_McGovernO'Hara_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1972_McGovernO'Hara_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1976Agnew_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1976Agnew_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1988b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1988b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1988b_JacksonLeahy_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1988b_JacksonLeahy_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [1988b_JacksonMetzenbaum_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [1988b_JacksonMetzenbaum_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://web.archive.org/web/19961219055745/http://www.politicsnow.com] for mod [1996Powell_init.html]: HTTP Error 302: FOUND
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2000Bateman_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2000Bateman_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2008T_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2008T_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://www.alternatehistory.com/forum/threads/make-america-great-again-a-2008-trump-administration-tl.508031] for mod [2008T_init.html]: HTTP Error 403: Forbidden
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2008_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2008_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2008_McCainPalin_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2008_McCainPalin_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2008_TrumpColbert_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2008_TrumpColbert_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://www.alternatehistory.com/forum/threads/make-america-great-again-a-2008-trump-administration-tl.508031] for mod [2008_TrumpColbert_init.html]: HTTP Error 403: Forbidden
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2008_TrumpObama_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2008_TrumpObama_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://www.alternatehistory.com/forum/threads/make-america-great-again-a-2008-trump-administration-tl.508031] for mod [2008_TrumpObama_init.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmBooker.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmBooker.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmCasey.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmCasey.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmKaine.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmKaine.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmNelson.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_GranholmNelson.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerGraham.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerGraham.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerKasich.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerKasich.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerPataki.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerPataki.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerRice.html]: HTTP Error 403: Forbidden
+Error downloading url [https://i.cbc.ca/1.3706918.1470306660] for mod [2016ARNOLD_SchwarzeneggerRice.html]: HTTP Error 403: Forbidden
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016b_SandersKlobuchar_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016b_SandersKlobuchar_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_SandersKlobuchar_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016b_SandersSewell_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016b_SandersSewell_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_SandersSewell_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016b_SandersTurner_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016b_SandersTurner_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_SandersTurner_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_SandersWarren.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016b_SandersWarren_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016b_SandersWarren_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/static/images/elizabeth-warren-2016.jpg] for mod [2016b_SandersWarren_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016FourCandidate1_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016FourCandidate1_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://choosealicense.com/licenses/apache-2.0] for mod [2016FourCandidate1_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2016FourCandidate2_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2016FourCandidate2_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2020a_BidenHarris_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2020a_BidenHarris_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2020a_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2020a_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://eh.net/encyclopedia/article/Whitten.panic.1893] for mod [2020a_TrumpPence_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [http://faculty.virginia.edu/jajenkins/ES.pdf] for mod [2020a_TrumpPence_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_BBBvan der Plas.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_BBBvan der Plas.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_BBBvan_der_Plas.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_BBBvan_der_Plas.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_D66Dijkgraaf.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_D66Dijkgraaf.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_D66Kaag.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_D66Kaag.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_Groep OmtzigtOmtzigt.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_Groep OmtzigtOmtzigt.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_Groep_OmtzigtOmtzigt.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_Groep_OmtzigtOmtzigt.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_init.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_init.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_LinksOmAboutaleb.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_LinksOmAboutaleb.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_LinksOmKlaver.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_LinksOmKlaver.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_LinksOmTimmermans.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_LinksOmTimmermans.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_PVVWilders.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_PVVWilders.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_VVDRutte.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_VVDRutte.html]: HTTP Error 302: Found
+Error downloading url [https://choosealicense.com/licenses/lgpl-3.0] for mod [2025NL_VVDYeşilgöz-Zegerius.html]: HTTP Error 301: Moved Permanently
+Error downloading url [https://creativecommons.org/licenses/by-nc/4.0] for mod [2025NL_VVDYeşilgöz-Zegerius.html]: HTTP Error 302: Found
