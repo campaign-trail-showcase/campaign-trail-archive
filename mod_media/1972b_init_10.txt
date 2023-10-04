@@ -2,19 +2,19 @@
 
 
 <!DOCTYPE html>
-<html class="with-header  logged-out-marketing-header" lang="en">
+<html class="with-header with-top-bar " lang="en">
 <head prefix="og: http://ogp.me/ns#">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
-<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="width=device-width, initial-scale=1" name="viewport">
 <title>Code 1 - Wallace 1972 - Chisholm.txt · master · Tex / the-campaign-trail-mods · GitLab</title>
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 window.gon={};gon.features={"highlightJsWorker":false,"explainCodeChat":false,"remoteDevelopmentFeatureFlag":true};gon.licensed_features={"remoteDevelopment":true};
 //]]>
 </script>
 
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 var gl = window.gl || {};
 gl.startup_calls = null;
@@ -37,7 +37,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"ZZ1_4fp0Q0MF2SmtS0YZwA93wY2njc29WSuCmkG7rv5WOS0kZSo99KJKg93XknZzkLVAoN6ySxGBNIJQgUygRA","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"xg_z0TyOfZ17H1rYnmqi82ibVpT9pTFtP5k0Cy3ynb7LwibHbkp6EzGqll_5QdWKGwudHGnOzsAy04l4r2jSDg","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.com/api/graphql`
 
   const opts = {
@@ -62,58 +62,61 @@ if (gl.startup_graphql_calls && window.fetch) {
 //]]>
 </script>
 
-<link rel="prefetch" href="/assets/webpack/monaco.2f308256.chunk.js">
+<link rel="prefetch" href="/assets/webpack/monaco.0211e48d.chunk.js">
 <link rel="stylesheet" href="/assets/themes/theme_light_gray-3709fdfdb1600922d90063efdcf592c5e03aeccf4bfff84771ee72cd6ea73a58.css" />
 
-<link rel="stylesheet" href="/assets/application-438d8506e777869252c205fa464d726281d4c411a125a73e797994594cca547e.css" media="all" />
-<link rel="stylesheet" href="/assets/page_bundles/tree-7eb97b0bf23760737864cc9c5cd5c9f23c3de24178d1b9393cea9f64caca3bcd.css" media="all" />
-<link rel="stylesheet" href="/assets/application_utilities-79fd3a4f28faf34ffc5a9ae1a6cc396b7c7a454a655778a9f7f802fd42b77cb4.css" media="all" />
+<link rel="stylesheet" href="/assets/application-c4a8beca08aedd8f3d808a111243592675ccca0d7164e73b185f62b79fa6bb00.css" media="all" />
+<link rel="stylesheet" href="/assets/page_bundles/tree-7eb97b0bf23760737864cc9c5cd5c9f23c3de24178d1b9393cea9f64caca3bcd.css" media="all" /><link rel="stylesheet" href="/assets/page_bundles/labels-8662e07cd52d1d1ffd9a592a88d50b565a76845391d26e453af5cc4e72440f76.css" media="all" />
+<link rel="stylesheet" href="/assets/application_utilities-107aa4d4fdc3beb2af8bb2d05976bcb8f050eb5d01bc9e46c5cdfbc7a5329441.css" media="all" />
 
 
-<link rel="stylesheet" href="/assets/fonts-171e1863d044918ea3bbaacf2a559ccaac603904aa851c3add5b714fa7066468.css" media="all" />
-<link rel="stylesheet" href="/assets/highlight/themes/white-798c2d2c1560fb1734a7653f984135b2ce22a62aa9b46f914905648669930db1.css" media="all" />
+<link rel="stylesheet" href="/assets/fonts_swap-115c4704cb8c77e2fdf3fd0243eebf164e2e9b54bbab7bf6a4c14868b865ddf8.css" media="all" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-0163ec1ff3033e0ebaf2e7700680941596e39d73535518445a42947430b7d452.css" media="all" />
 
-<script src="/assets/webpack/runtime.67109b3d.bundle.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/main.3828b8bf.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/tracker.59bc3604.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script src="/assets/webpack/runtime.f8d537c7.bundle.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/main.308cb433.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/tracker.8e1d9ce3.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/analytics.a2468b21.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"snowplow.trx.gitlab.net","cookieDomain":".gitlab.com","appId":"gitlab","formTracking":true,"linkClickTracking":true}
 
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-0-9","data":{"environment":"production","source":"gitlab-rails","plan":"free","extra":{"new_nav":false},"user_id":null,"namespace_id":5943017,"project_id":24946963,"context_generated_at":"2023-09-05T04:51:00.812Z"}}
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-0-9","data":{"environment":"production","source":"gitlab-rails","plan":"free","extra":{"new_nav":true},"user_id":null,"is_gitlab_team_member":null,"namespace_id":5943017,"project_id":24946963,"context_generated_at":"2023-10-04T19:56:06.394Z"}}
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace5943017/project24946963/-/blob/:repository_path";
 
 
 //]]>
 </script>
-<link rel="preload" href="/assets/application_utilities-79fd3a4f28faf34ffc5a9ae1a6cc396b7c7a454a655778a9f7f802fd42b77cb4.css" as="style" type="text/css" nonce="uFaw4NhgaCUeZYRVQ8WLng==">
-<link rel="preload" href="/assets/application-438d8506e777869252c205fa464d726281d4c411a125a73e797994594cca547e.css" as="style" type="text/css" nonce="uFaw4NhgaCUeZYRVQ8WLng==">
-<link rel="preload" href="/assets/highlight/themes/white-798c2d2c1560fb1734a7653f984135b2ce22a62aa9b46f914905648669930db1.css" as="style" type="text/css" nonce="uFaw4NhgaCUeZYRVQ8WLng==">
+<link rel="preload" href="/assets/application_utilities-107aa4d4fdc3beb2af8bb2d05976bcb8f050eb5d01bc9e46c5cdfbc7a5329441.css" as="style" type="text/css" nonce="ug/igvc+e+erSPpkbWlvMA==">
+<link rel="preload" href="/assets/application-c4a8beca08aedd8f3d808a111243592675ccca0d7164e73b185f62b79fa6bb00.css" as="style" type="text/css" nonce="ug/igvc+e+erSPpkbWlvMA==">
+<link rel="preload" href="/assets/highlight/themes/white-0163ec1ff3033e0ebaf2e7700680941596e39d73535518445a42947430b7d452.css" as="style" type="text/css" nonce="ug/igvc+e+erSPpkbWlvMA==">
 <link crossorigin="" href="https://snowplow.trx.gitlab.net" rel="preconnect">
 <link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-1e0a5107ea3bbd4be93e8ad2c503467e43166cd37e4293570b490e0812ede98b.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-Italic-38eaf1a569a54ab28c58b92a4a8de3afb96b6ebc250cf372003a7b38151848cc.woff2" rel="preload">
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-08d2c5e8ff8fd3d2d6ec55bc7713380f8981c35f9d2df14e12b835464d6e8f23.woff2" rel="preload">
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-Italic-38e58d8df29485a20c550da1d0111e2c2169f6dcbcf894f2cd3afbdd97bcc588.woff2" rel="preload">
-<link rel="preload" href="/assets/fonts-171e1863d044918ea3bbaacf2a559ccaac603904aa851c3add5b714fa7066468.css" as="style" type="text/css" nonce="uFaw4NhgaCUeZYRVQ8WLng==">
+<link rel="preload" href="/assets/fonts_swap-115c4704cb8c77e2fdf3fd0243eebf164e2e9b54bbab7bf6a4c14868b865ddf8.css" as="style" type="text/css" nonce="ug/igvc+e+erSPpkbWlvMA==">
 
 
 
-<script src="/assets/webpack/sentry.5bdab17d.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
+<script src="/assets/webpack/sentry.cb8b4830.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
 
 
-
-<script src="/assets/webpack/shortcutsBundle.c1dbef42.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.groups.boards-pages.groups.details-pages.groups.epic_boards-pages.groups.show-pages.gr-78052651.89d617fc.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.advanced_search-pages.admi-70ff8660.5587270d.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.admin.runners.show-pages.groups.achievements-pages.groups.analytics.dashboards-pages.g-80ca0b1d.39a2155f.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.groups.security.policies.edit-pages.groups.security.pol-4e8c4c71.8d36d3d6.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.shared.web_ide_link-pages.projects.show-pages.projec-6acd8882.9652884f.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-25c821a4.0bb690be.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.groups.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.1399fdb2.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.shared.web_ide_link-pages.projects.show-pages.projec-be9a6d69.e8550433.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.5943dec5.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.1d7e3d2c.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
-<script src="/assets/webpack/pages.projects.blob.show.69ca5dd2.chunk.js" defer="defer" nonce="MHXwzyG2QESahBbUNki2Rw=="></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.04d2759e.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/super_sidebar.4725bc45.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/shortcutsBundle.6ed0e67a.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.groups.boards-pages.groups.details-pages.groups.epic_boards-pages.groups.show-pages.gr-abad4194.e30f4c89.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.admin.runners.show-pages.groups.achievements-pages.groups.analytics.dashboards-pages.g-e759e3f9.fa452e74.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.groups.security.policies.edit-pages.groups.security.pol-6bfecbfa.19191d6d.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.bf57d644.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/100.53f4daf1.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.1fd443ab.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/120.1146c270.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.groups.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.50514088.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.0b44c9f2.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.b40831b7.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
+<script src="/assets/webpack/pages.projects.blob.show.f5cf315c.chunk.js" defer="defer" nonce="0eG8SAYxduuOSM50EZsMAg=="></script>
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
 <meta content="Code 1 - Wallace 1972 - Chisholm.txt · master · Tex / the-campaign-trail-mods · GitLab" property="og:title">
@@ -128,8 +131,8 @@ gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace5943017/project24
 <meta content="https://gitlab.com/uploads/-/system/project/avatar/24946963/Barack-Obama-in-spoof-retirement-video.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="yL_ZEO9yNWrfRI66iM8oCujh_iTrscpg5L_pTyFwvtz7G4vVcCxL3XjXJMoUG0e5dyN_CZKOTMw8oOmF4YewZg" />
-<meta name="csp-nonce" content="MHXwzyG2QESahBbUNki2Rw==" />
+<meta name="csrf-token" content="GM_7HQ9B2qlMRa3gvO10RpQXXfYBSdY1th4FgaRurg8VAi4LXYXdJwbwYWfbxgM_54eWfpUiKZi7VLjyJvThvw" />
+<meta name="csp-nonce" content="0eG8SAYxduuOSM50EZsMAg==" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
 <link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
@@ -145,7 +148,7 @@ gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace5943017/project24
 
 <body class="ui-light-gray tab-width-8 gl-browser-generic gl-platform-other" data-find-file="/tex12347/the-campaign-trail-mods/-/find_file/master" data-namespace-id="5943017" data-page="projects:blob:show" data-page-type-id="master/Code 1 - Wallace 1972 - Chisholm.txt" data-project="the-campaign-trail-mods" data-project-id="24946963">
 
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isGeneric":true,"isOther":true};
@@ -156,11 +159,11 @@ gl.client = {"isGeneric":true,"isOther":true};
 
 
 
-<header class="navbar navbar-gitlab navbar-expand-sm js-navbar legacy-top-bar" data-testid="navbar">
+<header class="navbar navbar-gitlab super-sidebar-logged-out" data-testid="navbar">
 <a class="gl-sr-only gl-accessibility" href="#content-body">Skip to content</a>
 <div class="container-fluid">
-<div class="header-content js-header-content">
-<div class="title-container hide-when-top-nav-responsive-open gl-transition-medium gl-display-flex gl-align-items-stretch gl-pt-0 gl-mr-3">
+<div class="header-content gl-displax-flex">
+<div class="title-container gl-display-flex gl-align-items-stretch gl-pt-0 gl-mr-3">
 <div class="title">
 <span class="gl-sr-only">GitLab</span>
 <a title="Homepage" id="logo" class="has-tooltip" data-track-label="main_navigation" data-track-action="click_gitlab_logo_link" data-track-property="navigation_top" href="/"><svg role="img" class="tanuki-logo" width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -178,468 +181,64 @@ gl.client = {"isGeneric":true,"isOther":true};
 </div>
 </div>
 
-<ul class="nav navbar-sub-nav gl-display-none gl-lg-display-flex gl-align-items-center">
-<li class="dropdown gl-mr-3">
+<ul class="nav navbar-sub-nav gl-align-items-center gl-display-flex gl-flex-direction-row gl-flex-grow-1">
+<li class="nav-item dropdown gl-mr-3 gl-md-display-none">
 <button data-toggle="dropdown" type="button">
-About GitLab
-<svg class="s16 caret-down" data-testid="chevron-down-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chevron-down"></use></svg>
+<span class="gl-sr-only">
+Menu
+</span>
+<svg class="s16" data-testid="hamburger-icon"><use href="/assets/icons-3591e1b0dc5b9091969f4b703f7bdaffa0ca7b2c7953b0f3a7e7dc1e71c3e43d.svg#hamburger"></use></svg>
 </button>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="https://about.gitlab.com/stages-devops-lifecycle">GitLab: the DevOps platform
+<a href="https://about.gitlab.com/why-gitlab">Why GitLab
 </a></li>
 <li>
-<a href="/explore">Explore GitLab
-</a></li>
-<li>
-<a href="https://about.gitlab.com/install">Install GitLab
-</a></li>
-<li>
-<a href="https://about.gitlab.com/is-it-any-good">How GitLab compares
-</a></li>
-<li>
-<a href="https://about.gitlab.com/get-started">Get started
-</a></li>
-<li>
-<a href="https://docs.gitlab.com">GitLab docs
-</a></li>
-<li>
-<a href="https://about.gitlab.com/learn">GitLab Learn
-</a></li>
-</ul>
-</div>
-</li>
-<li class="gl-mr-3">
 <a href="https://about.gitlab.com/pricing">Pricing
 </a></li>
-<li class="gl-mr-3">
-<a href="https://about.gitlab.com/sales">Talk to an expert
+<li>
+<a href="https://about.gitlab.com/sales">Contact Sales
 </a></li>
-</ul>
-
-</div>
-<div class="navbar-collapse gl-transition-medium collapse gl-mr-auto global-search-container hide-when-top-nav-responsive-open">
-<ul class="nav navbar-nav gl-w-full gl-align-items-center">
-<li class="nav-item header-search gl-display-none gl-lg-display-block gl-w-full">
-<div class="header-search-form is-not-active gl-relative gl-w-full" data-autocomplete-path="/search/autocomplete" data-issues-path="/dashboard/issues" data-mr-path="/dashboard/merge_requests" data-search-context="{&quot;project&quot;:{&quot;id&quot;:24946963,&quot;name&quot;:&quot;the-campaign-trail-mods&quot;},&quot;project_metadata&quot;:{&quot;mr_path&quot;:&quot;/tex12347/the-campaign-trail-mods/-/merge_requests&quot;,&quot;issues_path&quot;:&quot;/tex12347/the-campaign-trail-mods/-/issues&quot;},&quot;code_search&quot;:true,&quot;ref&quot;:&quot;master&quot;,&quot;scope&quot;:null,&quot;for_snippets&quot;:null}" data-search-path="/search" id="js-header-search">
-<form action="/search" accept-charset="UTF-8" method="get"><div class="gl-search-box-by-type">
-<svg class="s16 gl-search-box-by-type-search-icon gl-icon" data-testid="search-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#search"></use></svg>
-<input autocomplete="off" class="form-control gl-form-input gl-search-box-by-type-input" data-testid="search_box" id="search" name="search" placeholder="Search GitLab" type="text">
-</div>
-
-<input type="hidden" name="project_id" id="project_id" value="24946963" autocomplete="off" />
-<input type="hidden" name="scope" id="scope" autocomplete="off" />
-<input type="hidden" name="search_code" id="search_code" value="true" autocomplete="off" />
-<input type="hidden" name="snippets" id="snippets" autocomplete="off" />
-<input type="hidden" name="repository_ref" id="repository_ref" value="master" autocomplete="off" />
-<input type="hidden" name="nav_source" id="nav_source" value="navbar" autocomplete="off" />
-<kbd class="gl-absolute gl-right-3 gl-top-0 keyboard-shortcut-helper gl-z-index-1 has-tooltip" data-html="true" data-placement="bottom" title="Use the shortcut key &lt;kbd&gt;/&lt;/kbd&gt; to start a search">
-/
-</kbd>
-</form></div>
-
+<li>
+<a href="/explore">Explore</a>
 </li>
-<li class="nav-item d-none d-sm-inline-block d-lg-none">
-<a title="Search" aria-label="Search" data-toggle="tooltip" data-placement="bottom" data-container="body" data-track-action="click_link" data-track-label="global_search" data-track-property="navigation_top" href="/search?project_id=24946963"><svg class="s16" data-testid="search-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#search"></use></svg>
+</ul>
+</div>
+</li>
+<li class="nav-item gl-mr-3 gl-display-none gl-md-display-inline-block">
+<a href="https://about.gitlab.com/why-gitlab">Why GitLab
 </a></li>
-</ul>
-</div>
-<div class="navbar-collapse gl-transition-medium collapse">
-<ul class="nav navbar-nav gl-w-full gl-align-items-center gl-justify-content-end">
-<li class="nav-item header-help dropdown d-none d-md-block">
-<a class="header-help-dropdown-toggle gl-relative" data-toggle="dropdown" data-track-action="click_question_mark_link" data-track-label="main_navigation" data-track-property="navigation_top" href="/help"><span class="gl-sr-only">
-Help
-</span>
-<svg class="s16" data-testid="question-o-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#question-o"></use></svg>
-<span class="notification-dot rounded-circle gl-absolute"></span>
-<svg class="s16 caret-down" data-testid="chevron-down-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chevron-down"></use></svg>
-</a><div class="dropdown-menu dropdown-menu-right">
-<ul>
-<li>
-
-</li>
-<li>
-<button class="gl-justify-content-space-between gl-align-items-center js-whats-new-trigger gl-display-flex!" type="button">
-What&#39;s new
-<span class="gl-badge badge badge-pill badge-muted sm js-whats-new-notification-count">5</span>
-</button>
-</li>
-
-<li>
-<a data-track-action="click_link" data-track-label="help" data-track-property="navigation_top" href="/help">Help</a>
-</li>
-<li>
-<a data-track-action="click_link" data-track-label="support" data-track-property="navigation_top" href="https://about.gitlab.com/get-help/">Support</a>
-</li>
-<li>
-<a target="_blank" class="text-nowrap" rel="noopener noreferrer" data-track-action="click_link" data-track-label="community_forum" data-track-property="navigation_top" href="https://forum.gitlab.com">Community forum</a>
-
-</li>
-<li>
-<button class="js-shortcuts-modal-trigger" data-track-action="click_button" data-track-label="keyboard_shortcuts_help" data-track-property="navigation_top" type="button">
-Keyboard shortcuts
-<kbd aria-hidden="true" class="flat float-right">?</kbd>
-</button>
-</li>
-<li class="divider"></li>
-<li>
-<a data-track-action="click_link" data-track-label="submit_feedback" data-track-property="navigation_top" href="https://about.gitlab.com/submit-feedback">Submit feedback</a>
-</li>
-<li>
-<a target="_blank" class="text-nowrap" data-track-action="click_link" data-track-label="contribute_to_gitlab" data-track-property="navigation_top" href="https://about.gitlab.com/contributing">Contribute to GitLab
-</a>
-
-</li>
-
-<li>
-<a data-track-action="click_link" data-track-label="gitlab_next" data-track-property="navigation_top" href="https://next.gitlab.com">Switch to GitLab Next</a>
-</li>
-</ul>
-
-</div>
-</li>
-<li class="nav-item gl-display-none gl-sm-display-block">
-<ul class="list-unstyled nav navbar-sub-nav" data-view-model="{&quot;primary&quot;:[{&quot;type&quot;:&quot;header&quot;,&quot;title&quot;:&quot;Explore&quot;},{&quot;id&quot;:&quot;project&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Projects&quot;,&quot;active&quot;:true,&quot;icon&quot;:&quot;project&quot;,&quot;href&quot;:&quot;/explore&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:null,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Projects&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;groups&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Groups&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;group&quot;,&quot;href&quot;:&quot;/explore/groups&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:null,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Groups&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;topics&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Topics&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;labels&quot;,&quot;href&quot;:&quot;/explore/projects/topics&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:null,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Topics&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;snippets&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Snippets&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;snippet&quot;,&quot;href&quot;:&quot;/explore/snippets&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:null,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Snippets&quot;},&quot;partial&quot;:null,&quot;component&quot;:null}],&quot;secondary&quot;:[],&quot;views&quot;:{},&quot;shortcuts&quot;:[{&quot;id&quot;:&quot;project-shortcut&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Projects&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;&quot;,&quot;href&quot;:&quot;/explore&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-projects&quot;,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Projects&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;groups-shortcut&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Groups&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;&quot;,&quot;href&quot;:&quot;/explore/groups&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-groups&quot;,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Groups&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;topics-shortcut&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Topics&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;&quot;,&quot;href&quot;:&quot;/explore/projects/topics&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-topics&quot;,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Topics&quot;},&quot;partial&quot;:null,&quot;component&quot;:null},{&quot;id&quot;:&quot;snippets-shortcut&quot;,&quot;type&quot;:&quot;item&quot;,&quot;title&quot;:&quot;Snippets&quot;,&quot;active&quot;:false,&quot;icon&quot;:&quot;&quot;,&quot;href&quot;:&quot;/explore/snippets&quot;,&quot;view&quot;:&quot;&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-snippets&quot;,&quot;data&quot;:{&quot;testid&quot;:&quot;menu_item_link&quot;,&quot;qa_title&quot;:&quot;Snippets&quot;},&quot;partial&quot;:null,&quot;component&quot;:null}],&quot;menuTooltip&quot;:&quot;Main menu&quot;}" id="js-top-nav">
-<li>
-<a class="top-nav-toggle" data-toggle="dropdown" href="#" type="button">
-<svg class="s16" data-testid="hamburger-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#hamburger"></use></svg>
-</a>
-</li>
-</ul>
-<div class="hidden">
-<a class="dashboard-shortcuts-projects" href="/explore">Projects
-</a><a class="dashboard-shortcuts-groups" href="/explore/groups">Groups
-</a><a class="dashboard-shortcuts-topics" href="/explore/projects/topics">Topics
-</a><a class="dashboard-shortcuts-snippets" href="/explore/snippets">Snippets
-</a></div>
-
-</li>
-<li class="nav-item">
-<a class="gl-button btn btn-md btn-default " href="/users/sign_up"><span class="gl-button-text">
-Register
-
-</span>
-
+<li class="nav-item gl-mr-3 gl-display-none gl-md-display-inline-block">
+<a href="https://about.gitlab.com/pricing">Pricing
 </a></li>
-<li class="nav-item gl-flex-grow-0! gl-flex-basis-half!">
+<li class="nav-item gl-mr-3 gl-display-none gl-md-display-inline-block">
+<a href="https://about.gitlab.com/sales">Contact Sales
+</a></li>
+<li class="nav-item gl-display-none gl-md-display-inline-block">
+<a class="" href="/explore">Explore</a>
+</li>
+</ul>
+</div>
+<ul class="nav navbar-nav gl-align-items-center gl-justify-content-end gl-flex-direction-row">
+<li class="nav-item gl-mr-3">
 <a href="/users/sign_in?redirect_to_referer=yes">Sign in</a>
 </li>
-</ul>
-</div>
-<button class="navbar-toggler d-block d-sm-none gl-border-none!" data-testid="mobile_navbar_button" type="button">
-<span class="sr-only">Toggle navigation</span>
-<span class="more-icon gl-px-3 gl-font-sm gl-font-weight-bold">
-<span class="gl-pr-2">Menu</span>
-<svg class="s16" data-testid="hamburger-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#hamburger"></use></svg>
+<li>
+<a class="gl-button btn btn-md btn-confirm " href="/users/sign_up"><span class="gl-button-text">
+Get free trial
+
 </span>
-<svg class="s12 close-icon" data-testid="close-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#close"></use></svg>
-</button>
+
+</a></li>
+</ul>
 </div>
 </div>
 </header>
-<div data-version-digest="4ecbf57547986d3149a533d5ec774acc5c461a1f1c1675d73c8b48d00bc27827" id="whats-new-app"></div>
 
-<div class="layout-page hide-when-top-nav-responsive-open page-with-contextual-sidebar">
-<aside aria-label="Project navigation" class="nav-sidebar" data-track-action="render" data-track-label="projects_side_navigation" data-track-property="projects_side_navigation">
-<div class="nav-sidebar-inner-scroll">
-<ul class="sidebar-top-level-items" data-testid="project_sidebar">
-<li data-track-label="scope_menu" data-container="body" data-placement="right" class="context-header has-tooltip" title="the-campaign-trail-mods"><a aria-label="the-campaign-trail-mods" class="shortcuts-project rspec-project-link gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Project scope" href="/tex12347/the-campaign-trail-mods"><span class="avatar-container rect-avatar s32 project_avatar">
-<img alt="the-campaign-trail-mods" class="avatar avatar-tile s32 lazy" width="32" height="32" data-src="/uploads/-/system/project/avatar/24946963/Barack-Obama-in-spoof-retirement-video.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-</span>
-<span class="sidebar-context-title">
-the-campaign-trail-mods
-</span>
-</a></li>
-<li data-track-label="project_information_menu" class="home"><a aria-label="Project information" class="shortcuts-project-information has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Project information" href="/tex12347/the-campaign-trail-mods/activity"><span class="nav-icon-container">
-<svg class="s16" data-testid="project-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#project"></use></svg>
-</span>
-<span class="nav-item-name">
-Project information
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Project information
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="activity" class=""><a aria-label="Activity" class="shortcuts-project-activity gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Activity" href="/tex12347/the-campaign-trail-mods/activity"><span class="gl-flex-grow-1">
-Activity
-</span>
-</a></li><li data-track-label="labels" class=""><a aria-label="Labels" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Labels" href="/tex12347/the-campaign-trail-mods/-/labels"><span class="gl-flex-grow-1">
-Labels
-</span>
-</a></li><li data-track-label="members" class=""><a aria-label="Members" id="js-onboarding-members-link" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Members" href="/tex12347/the-campaign-trail-mods/-/project_members"><span class="gl-flex-grow-1">
-Members
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="repository_menu" class="active"><a aria-label="Repository" class="shortcuts-tree has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Repository" href="/tex12347/the-campaign-trail-mods/-/tree/master"><span class="nav-icon-container">
-<svg class="s16" data-testid="doc-text-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#doc-text"></use></svg>
-</span>
-<span class="nav-item-name" id="js-onboarding-repo-link">
-Repository
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item active"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Repository
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="files" class="active"><a aria-label="Files" class="shortcuts-tree gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Files" href="/tex12347/the-campaign-trail-mods/-/tree/master"><span class="gl-flex-grow-1">
-Files
-</span>
-</a></li><li data-track-label="commits" class=""><a aria-label="Commits" id="js-onboarding-commits-link" class="shortcuts-commits gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Commits" href="/tex12347/the-campaign-trail-mods/-/commits/master?ref_type=heads"><span class="gl-flex-grow-1">
-Commits
-</span>
-</a></li><li data-track-label="branches" class=""><a aria-label="Branches" id="js-onboarding-branches-link" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Branches" href="/tex12347/the-campaign-trail-mods/-/branches"><span class="gl-flex-grow-1">
-Branches
-</span>
-</a></li><li data-track-label="tags" class=""><a aria-label="Tags" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Tags" href="/tex12347/the-campaign-trail-mods/-/tags"><span class="gl-flex-grow-1">
-Tags
-</span>
-</a></li><li data-track-label="contributors" class=""><a aria-label="Contributor statistics" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Contributor statistics" href="/tex12347/the-campaign-trail-mods/-/graphs/master?ref_type=heads"><span class="gl-flex-grow-1">
-Contributor statistics
-</span>
-</a></li><li data-track-label="graphs" class=""><a aria-label="Graph" class="shortcuts-network gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Graph" href="/tex12347/the-campaign-trail-mods/-/network/master?ref_type=heads"><span class="gl-flex-grow-1">
-Graph
-</span>
-</a></li><li data-track-label="compare" class=""><a aria-label="Compare revisions" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Compare revisions" href="/tex12347/the-campaign-trail-mods/-/compare?from=master&amp;to=master"><span class="gl-flex-grow-1">
-Compare revisions
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="issues_menu" class=""><a aria-label="Issues" class="shortcuts-issues has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Issues" href="/tex12347/the-campaign-trail-mods/-/issues"><span class="nav-icon-container">
-<svg class="s16" data-testid="issues-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#issues"></use></svg>
-</span>
-<span class="nav-item-name" id="js-onboarding-issues-link">
-Issues
-</span>
-<span class="gl-badge badge badge-pill badge-info sm count issue_counter">0
-</span></a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Issues
-</strong>
-<span class="gl-badge badge badge-pill badge-info sm count fly-out-badge issue_counter">0
-</span></span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="issue_list" class=""><a aria-label="Issues" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="List" href="/tex12347/the-campaign-trail-mods/-/issues"><span class="gl-flex-grow-1">
-List
-</span>
-</a></li><li data-track-label="boards" class=""><a aria-label="Boards" class="shortcuts-issue-boards gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Boards" href="/tex12347/the-campaign-trail-mods/-/boards"><span class="gl-flex-grow-1">
-Boards
-</span>
-</a></li><li data-track-label="service_desk" class=""><a aria-label="Service Desk" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Service Desk" href="/tex12347/the-campaign-trail-mods/-/issues/service_desk"><span class="gl-flex-grow-1">
-Service Desk
-</span>
-</a></li><li data-track-label="milestones" class=""><a aria-label="Milestones" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Milestones" href="/tex12347/the-campaign-trail-mods/-/milestones"><span class="gl-flex-grow-1">
-Milestones
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="merge_requests_menu" class=""><a aria-label="Merge requests" class="shortcuts-merge_requests gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Merge requests" href="/tex12347/the-campaign-trail-mods/-/merge_requests"><span class="nav-icon-container">
-<svg class="s16" data-testid="git-merge-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#git-merge"></use></svg>
-</span>
-<span class="nav-item-name" id="js-onboarding-mr-link">
-Merge requests
-</span>
-<span class="gl-badge badge badge-pill badge-info sm count merge_counter js-merge-counter">0
-</span></a><ul class="sidebar-sub-level-items is-fly-out-only">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Merge requests
-</strong>
-<span class="gl-badge badge badge-pill badge-info sm count fly-out-badge merge_counter js-merge-counter">0
-</span></span>
-</li></ul>
-
-</li><li data-track-label="ci_cd_menu" class=""><a aria-label="CI/CD" class="shortcuts-pipelines rspec-link-pipelines has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="CI/CD" href="/tex12347/the-campaign-trail-mods/-/pipelines"><span class="nav-icon-container">
-<svg class="s16" data-testid="rocket-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#rocket"></use></svg>
-</span>
-<span class="nav-item-name" id="js-onboarding-pipelines-link">
-CI/CD
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-CI/CD
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="pipelines" class=""><a aria-label="Pipelines" class="shortcuts-pipelines gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Pipelines" href="/tex12347/the-campaign-trail-mods/-/pipelines"><span class="gl-flex-grow-1">
-Pipelines
-</span>
-</a></li><li data-track-label="jobs" class=""><a aria-label="Jobs" class="shortcuts-builds gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Jobs" href="/tex12347/the-campaign-trail-mods/-/jobs"><span class="gl-flex-grow-1">
-Jobs
-</span>
-</a></li><li data-track-label="artifacts" class=""><a aria-label="Artifacts" class="shortcuts-builds gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Artifacts" href="/tex12347/the-campaign-trail-mods/-/artifacts"><span class="gl-flex-grow-1">
-Artifacts
-</span>
-</a></li><li data-track-label="pipeline_schedules" class=""><a aria-label="Schedules" class="shortcuts-builds gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Schedules" href="/tex12347/the-campaign-trail-mods/-/pipeline_schedules"><span class="gl-flex-grow-1">
-Schedules
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="deployments_menu" class=""><a aria-label="Deployments" class="shortcuts-deployments has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Deployments" href="/tex12347/the-campaign-trail-mods/-/environments"><span class="nav-icon-container">
-<svg class="s16" data-testid="deployments-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#deployments"></use></svg>
-</span>
-<span class="nav-item-name">
-Deployments
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Deployments
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="environments" class=""><a aria-label="Environments" class="shortcuts-environments gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Environments" href="/tex12347/the-campaign-trail-mods/-/environments"><span class="gl-flex-grow-1">
-Environments
-</span>
-</a></li><li data-track-label="releases" class=""><a aria-label="Releases" class="shortcuts-deployments-releases gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Releases" href="/tex12347/the-campaign-trail-mods/-/releases"><span class="gl-flex-grow-1">
-Releases
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="packages_registries_menu" class=""><a aria-label="Packages and registries" class="has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Packages and registries" href="/tex12347/the-campaign-trail-mods/-/packages"><span class="nav-icon-container">
-<svg class="s16" data-testid="package-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#package"></use></svg>
-</span>
-<span class="nav-item-name">
-Packages and registries
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Packages and registries
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="packages_registry" class=""><a aria-label="Package Registry" class="shortcuts-container-registry gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Package Registry" href="/tex12347/the-campaign-trail-mods/-/packages"><span class="gl-flex-grow-1">
-Package Registry
-</span>
-</a></li><li data-track-label="container_registry" class=""><a aria-label="Container Registry" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Container Registry" href="/tex12347/the-campaign-trail-mods/container_registry"><span class="gl-flex-grow-1">
-Container Registry
-</span>
-</a></li><li data-track-label="infrastructure_registry" class=""><a aria-label="Terraform modules" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Terraform modules" href="/tex12347/the-campaign-trail-mods/-/infrastructure_registry"><span class="gl-flex-grow-1">
-Terraform modules
-</span>
-</a></li><li data-track-label="model_experiments" class=""><a aria-label="Model experiments" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Model experiments" href="/tex12347/the-campaign-trail-mods/-/ml/experiments"><span class="gl-flex-grow-1">
-Model experiments
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="monitor_menu" class=""><a aria-label="Monitor" class="shortcuts-monitor has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Monitor" href="/tex12347/the-campaign-trail-mods/-/incidents"><span class="nav-icon-container">
-<svg class="s16" data-testid="monitor-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#monitor"></use></svg>
-</span>
-<span class="nav-item-name">
-Monitor
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Monitor
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="incidents" class=""><a aria-label="Incidents" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Incidents" href="/tex12347/the-campaign-trail-mods/-/incidents"><span class="gl-flex-grow-1">
-Incidents
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="analytics_menu" class=""><a aria-label="Analytics" class="shortcuts-analytics has-sub-items gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Analytics" href="/tex12347/the-campaign-trail-mods/-/value_stream_analytics"><span class="nav-icon-container">
-<svg class="s16" data-testid="chart-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chart"></use></svg>
-</span>
-<span class="nav-item-name">
-Analytics
-</span>
-</a><ul class="sidebar-sub-level-items">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Analytics
-</strong>
-</span>
-</li><li class="divider fly-out-top-item"></li>
-<li data-track-label="cycle_analytics" class=""><a aria-label="Value stream" class="shortcuts-project-cycle-analytics gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Value stream" href="/tex12347/the-campaign-trail-mods/-/value_stream_analytics"><span class="gl-flex-grow-1">
-Value stream
-</span>
-</a></li><li data-track-label="ci_cd_analytics" class=""><a aria-label="CI/CD" class="gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="CI/CD" href="/tex12347/the-campaign-trail-mods/-/pipelines/charts"><span class="gl-flex-grow-1">
-CI/CD
-</span>
-</a></li><li data-track-label="repository_analytics" class=""><a aria-label="Repository" class="shortcuts-repository-charts gl-link" data-testid="sidebar_menu_item_link" data-qa-menu-item="Repository" href="/tex12347/the-campaign-trail-mods/-/graphs/master/charts"><span class="gl-flex-grow-1">
-Repository
-</span>
-</a></li>
-</ul>
-
-</li><li data-track-label="wiki_menu" class=""><a aria-label="Wiki" class="shortcuts-wiki gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Wiki" href="/tex12347/the-campaign-trail-mods/-/wikis/home"><span class="nav-icon-container">
-<svg class="s16" data-testid="book-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#book"></use></svg>
-</span>
-<span class="nav-item-name">
-Wiki
-</span>
-</a><ul class="sidebar-sub-level-items is-fly-out-only">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Wiki
-</strong>
-</span>
-</li></ul>
-
-</li><li data-track-label="snippets_menu" class=""><a aria-label="Snippets" class="shortcuts-snippets gl-link" data-testid="sidebar_menu_link" data-qa-menu-item="Snippets" href="/tex12347/the-campaign-trail-mods/-/snippets"><span class="nav-icon-container">
-<svg class="s16" data-testid="snippet-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#snippet"></use></svg>
-</span>
-<span class="nav-item-name">
-Snippets
-</span>
-</a><ul class="sidebar-sub-level-items is-fly-out-only">
-<li class="fly-out-top-item"><span class="fly-out-top-item-container">
-<strong class="fly-out-top-item-name">
-Snippets
-</strong>
-</span>
-</li></ul>
-
-</li>
-<li class="hidden">
-<a aria-label="Activity" class="shortcuts-project-activity gl-link" href="/tex12347/the-campaign-trail-mods/activity">Activity
-</a></li>
-<li class="hidden">
-<a aria-label="Graph" class="shortcuts-network gl-link" href="/tex12347/the-campaign-trail-mods/-/network/master">Graph
-</a></li>
-<li class="hidden">
-<a aria-label="Create a new issue" class="shortcuts-new-issue gl-link" href="/tex12347/the-campaign-trail-mods/-/issues/new">Create a new issue
-</a></li>
-<li class="hidden">
-<a aria-label="Jobs" class="shortcuts-builds gl-link" href="/tex12347/the-campaign-trail-mods/-/jobs">Jobs
-</a></li>
-<li class="hidden">
-<a aria-label="Commits" class="shortcuts-commits gl-link" href="/tex12347/the-campaign-trail-mods/-/commits/master">Commits
-</a></li>
-<li class="hidden">
-<a aria-label="Issue Boards" class="shortcuts-issue-boards gl-link" href="/tex12347/the-campaign-trail-mods/-/boards">Issue Boards
-</a></li>
-
-</ul>
-<a class="toggle-sidebar-button js-toggle-sidebar rspec-toggle-sidebar" role="button" title="Toggle sidebar" type="button">
-<svg class="s12 icon-chevron-double-lg-left" data-testid="chevron-double-lg-left-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chevron-double-lg-left"></use></svg>
-<span class="collapse-text gl-ml-3">Collapse sidebar</span>
-</a>
-<button name="button" type="button" class="close-nav-button"><svg class="s16" data-testid="close-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#close"></use></svg>
-<span class="collapse-text gl-ml-3">Close sidebar</span>
-</button>
-</div>
-</aside>
-
+<div class="layout-page hide-when-top-nav-responsive-open page-with-super-sidebar">
+<aside class="js-super-sidebar super-sidebar super-sidebar-loading" data-command-palette="{&quot;project_files_url&quot;:&quot;/tex12347/the-campaign-trail-mods/-/files/master?format=json&quot;,&quot;project_blob_url&quot;:&quot;/tex12347/the-campaign-trail-mods/-/blob/master&quot;}" data-force-desktop-expanded-sidebar="" data-root-path="/" data-sidebar="{&quot;is_logged_in&quot;:false,&quot;context_switcher_links&quot;:[{&quot;title&quot;:&quot;Explore&quot;,&quot;link&quot;:&quot;/explore&quot;,&quot;icon&quot;:&quot;compass&quot;}],&quot;current_menu_items&quot;:[{&quot;id&quot;:&quot;project_overview&quot;,&quot;title&quot;:&quot;the-campaign-trail-mods&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:&quot;/uploads/-/system/project/avatar/24946963/Barack-Obama-in-spoof-retirement-video.jpg&quot;,&quot;entity_id&quot;:24946963,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-project rspec-project-link&quot;,&quot;is_active&quot;:false},{&quot;title&quot;:&quot;Manage&quot;,&quot;icon&quot;:&quot;users&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/activity&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;activity&quot;,&quot;title&quot;:&quot;Activity&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/activity&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-project-activity&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;members&quot;,&quot;title&quot;:&quot;Members&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/project_members&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;labels&quot;,&quot;title&quot;:&quot;Labels&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/labels&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Plan&quot;,&quot;icon&quot;:&quot;planning&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/issues&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;project_issue_list&quot;,&quot;title&quot;:&quot;Issues&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/issues&quot;,&quot;pill_count&quot;:&quot;0&quot;,&quot;link_classes&quot;:&quot;shortcuts-issues has-sub-items&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;boards&quot;,&quot;title&quot;:&quot;Issue boards&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/boards&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-issue-boards&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;milestones&quot;,&quot;title&quot;:&quot;Milestones&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/milestones&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;project_wiki&quot;,&quot;title&quot;:&quot;Wiki&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/wikis/home&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-wiki&quot;,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Code&quot;,&quot;icon&quot;:&quot;code&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/merge_requests&quot;,&quot;is_active&quot;:true,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;project_merge_request_list&quot;,&quot;title&quot;:&quot;Merge requests&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/merge_requests&quot;,&quot;pill_count&quot;:&quot;0&quot;,&quot;link_classes&quot;:&quot;shortcuts-merge_requests&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;files&quot;,&quot;title&quot;:&quot;Repository&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/tree/master&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-tree&quot;,&quot;is_active&quot;:true},{&quot;id&quot;:&quot;branches&quot;,&quot;title&quot;:&quot;Branches&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/branches&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;commits&quot;,&quot;title&quot;:&quot;Commits&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/commits/master?ref_type=heads&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-commits&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;tags&quot;,&quot;title&quot;:&quot;Tags&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/tags&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;graphs&quot;,&quot;title&quot;:&quot;Repository graph&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/network/master?ref_type=heads&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-network&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;compare&quot;,&quot;title&quot;:&quot;Compare revisions&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/compare?from=master\u0026to=master&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;project_snippets&quot;,&quot;title&quot;:&quot;Snippets&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/snippets&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-snippets&quot;,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Build&quot;,&quot;icon&quot;:&quot;rocket&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/pipelines&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;pipelines&quot;,&quot;title&quot;:&quot;Pipelines&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/pipelines&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-pipelines&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;jobs&quot;,&quot;title&quot;:&quot;Jobs&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/jobs&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-builds&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;pipeline_schedules&quot;,&quot;title&quot;:&quot;Pipeline schedules&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/pipeline_schedules&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-builds&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;artifacts&quot;,&quot;title&quot;:&quot;Artifacts&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/artifacts&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-builds&quot;,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Deploy&quot;,&quot;icon&quot;:&quot;deployments&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/releases&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;releases&quot;,&quot;title&quot;:&quot;Releases&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/releases&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-deployments-releases&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;packages_registry&quot;,&quot;title&quot;:&quot;Package Registry&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/packages&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-container-registry&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;container_registry&quot;,&quot;title&quot;:&quot;Container Registry&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/container_registry&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Operate&quot;,&quot;icon&quot;:&quot;cloud-pod&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/environments&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;environments&quot;,&quot;title&quot;:&quot;Environments&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/environments&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-environments&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;infrastructure_registry&quot;,&quot;title&quot;:&quot;Terraform modules&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/infrastructure_registry&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Monitor&quot;,&quot;icon&quot;:&quot;monitor&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/incidents&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;incidents&quot;,&quot;title&quot;:&quot;Incidents&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/incidents&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;service_desk&quot;,&quot;title&quot;:&quot;Service Desk&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/issues/service_desk&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false}],&quot;separated&quot;:false},{&quot;title&quot;:&quot;Analyze&quot;,&quot;icon&quot;:&quot;chart&quot;,&quot;avatar&quot;:null,&quot;avatar_shape&quot;:&quot;rect&quot;,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/value_stream_analytics&quot;,&quot;is_active&quot;:false,&quot;pill_count&quot;:null,&quot;items&quot;:[{&quot;id&quot;:&quot;cycle_analytics&quot;,&quot;title&quot;:&quot;Value stream analytics&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/value_stream_analytics&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-project-cycle-analytics&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;contributors&quot;,&quot;title&quot;:&quot;Contributor statistics&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/graphs/master?ref_type=heads&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;ci_cd_analytics&quot;,&quot;title&quot;:&quot;CI/CD analytics&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/pipelines/charts&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;repository_analytics&quot;,&quot;title&quot;:&quot;Repository analytics&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/graphs/master/charts&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:&quot;shortcuts-repository-charts&quot;,&quot;is_active&quot;:false},{&quot;id&quot;:&quot;model_experiments&quot;,&quot;title&quot;:&quot;Model experiments&quot;,&quot;icon&quot;:null,&quot;avatar&quot;:null,&quot;entity_id&quot;:null,&quot;link&quot;:&quot;/tex12347/the-campaign-trail-mods/-/ml/experiments&quot;,&quot;pill_count&quot;:null,&quot;link_classes&quot;:null,&quot;is_active&quot;:false}],&quot;separated&quot;:false}],&quot;current_context_header&quot;:&quot;Project&quot;,&quot;support_path&quot;:&quot;https://about.gitlab.com/get-help/&quot;,&quot;display_whats_new&quot;:true,&quot;whats_new_most_recent_release_items_count&quot;:5,&quot;whats_new_version_digest&quot;:&quot;cb26f541db7d1bff43a7595b7243595665f023c448931a150b473aa8d6286e54&quot;,&quot;show_version_check&quot;:null,&quot;gitlab_version&quot;:{&quot;major&quot;:16,&quot;minor&quot;:5,&quot;patch&quot;:0,&quot;suffix_s&quot;:&quot;&quot;},&quot;gitlab_version_check&quot;:{&quot;latest_stable_versions&quot;:[],&quot;latest_version&quot;:&quot;16.4.1&quot;,&quot;severity&quot;:&quot;success&quot;,&quot;critical_vulnerability&quot;:false,&quot;details&quot;:&quot;&quot;},&quot;search&quot;:{&quot;search_path&quot;:&quot;/search&quot;,&quot;issues_path&quot;:&quot;/dashboard/issues&quot;,&quot;mr_path&quot;:&quot;/dashboard/merge_requests&quot;,&quot;autocomplete_path&quot;:&quot;/search/autocomplete&quot;,&quot;search_context&quot;:{&quot;project&quot;:{&quot;id&quot;:24946963,&quot;name&quot;:&quot;the-campaign-trail-mods&quot;},&quot;project_metadata&quot;:{&quot;mr_path&quot;:&quot;/tex12347/the-campaign-trail-mods/-/merge_requests&quot;,&quot;issues_path&quot;:&quot;/tex12347/the-campaign-trail-mods/-/issues&quot;},&quot;code_search&quot;:true,&quot;ref&quot;:&quot;master&quot;,&quot;scope&quot;:null,&quot;for_snippets&quot;:null}},&quot;panel_type&quot;:&quot;project&quot;,&quot;shortcut_links&quot;:[{&quot;title&quot;:&quot;Snippets&quot;,&quot;href&quot;:&quot;/explore/snippets&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-snippets&quot;},{&quot;title&quot;:&quot;Groups&quot;,&quot;href&quot;:&quot;/explore/groups&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-groups&quot;},{&quot;title&quot;:&quot;Projects&quot;,&quot;href&quot;:&quot;/explore/projects&quot;,&quot;css_class&quot;:&quot;dashboard-shortcuts-projects&quot;}]}" data-toggle-new-nav-endpoint="/-/profile/preferences"></aside>
+<div data-version-digest="cb26f541db7d1bff43a7595b7243595665f023c448931a150b473aa8d6286e54" id="whats-new-app"></div>
 
 <div class="content-wrapper">
 <div class="mobile-overlay"></div>
@@ -667,16 +266,17 @@ Snippets
 
 
 
-<div class="container-fluid container-limited project-highlight-puc" data-testid="top-bar">
-<div class="top-bar-container gl-display-flex gl-align-items-center gl-gap-2 gl-border-b">
-<button class="gl-button btn btn-icon btn-md btn-default btn-default-tertiary toggle-mobile-nav gl-ml-n3" data-testid="toggle_mobile_nav_button" aria-label="Open sidebar" type="button"><svg class="s16 gl-icon gl-button-icon " data-testid="sidebar-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#sidebar"></use></svg>
+
+<div class="top-bar-fixed container-fluid" data-testid="top-bar">
+<div class="top-bar-container gl-display-flex gl-align-items-center gl-gap-2">
+<button class="gl-button btn btn-icon btn-md btn-default btn-default-tertiary js-super-sidebar-toggle-expand super-sidebar-toggle gl-ml-n3" aria-controls="super-sidebar" aria-expanded="false" aria-label="Primary navigation sidebar" type="button"><svg class="s16 gl-icon gl-button-icon " data-testid="sidebar-icon"><use href="/assets/icons-3591e1b0dc5b9091969f4b703f7bdaffa0ca7b2c7953b0f3a7e7dc1e71c3e43d.svg#sidebar"></use></svg>
 
 </button>
-<nav aria-label="Breadcrumbs" class="breadcrumbs" data-qa-selector="breadcrumb_links_content" data-testid="breadcrumb-links">
+<nav aria-label="Breadcrumbs" class="breadcrumbs" data-testid="breadcrumb-links">
 <ul class="list-unstyled breadcrumbs-list js-breadcrumbs-list">
-<li><a href="/tex12347">Tex</a><svg class="s8 breadcrumbs-list-angle" data-testid="chevron-lg-right-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chevron-lg-right"></use></svg></li> <li><a href="/tex12347/the-campaign-trail-mods"><img alt="the-campaign-trail-mods" class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/project/avatar/24946963/Barack-Obama-in-spoof-retirement-video.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><span class="breadcrumb-item-text js-breadcrumb-item-text">the-campaign-trail-mods</span></a><svg class="s8 breadcrumbs-list-angle" data-testid="chevron-lg-right-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#chevron-lg-right"></use></svg></li>
+<li><a href="/tex12347">Tex</a><svg class="s8 breadcrumbs-list-angle" data-testid="chevron-lg-right-icon"><use href="/assets/icons-3591e1b0dc5b9091969f4b703f7bdaffa0ca7b2c7953b0f3a7e7dc1e71c3e43d.svg#chevron-lg-right"></use></svg></li> <li><a href="/tex12347/the-campaign-trail-mods"><img alt="the-campaign-trail-mods" class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/project/avatar/24946963/Barack-Obama-in-spoof-retirement-video.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><span class="breadcrumb-item-text js-breadcrumb-item-text">the-campaign-trail-mods</span></a><svg class="s8 breadcrumbs-list-angle" data-testid="chevron-lg-right-icon"><use href="/assets/icons-3591e1b0dc5b9091969f4b703f7bdaffa0ca7b2c7953b0f3a7e7dc1e71c3e43d.svg#chevron-lg-right"></use></svg></li>
 
-<li data-qa-selector="breadcrumb_current_link" data-testid="breadcrumb-current-link">
+<li data-testid="breadcrumb-current-link">
 <a href="/tex12347/the-campaign-trail-mods/-/blob/master/Code%201%20-%20Wallace%201972%20-%20Chisholm.txt">Repository</a>
 </li>
 </ul>
@@ -695,6 +295,7 @@ Snippets
 <div class="container-fluid container-limited project-highlight-puc">
 <main class="content" id="content-body" itemscope itemtype="http://schema.org/SoftwareSourceCode">
 <div class="flash-container flash-container-page sticky" data-qa-selector="flash_container">
+<div id="js-global-alerts"></div>
 </div>
 
 
@@ -763,7 +364,7 @@ f31a8921
 <div class="label label-monospace monospace">
 f31a8921
 </div>
-<button class="gl-button btn btn-icon btn-md btn-default " title="Copy commit SHA" aria-label="Copy commit SHA" aria-live="polite" data-toggle="tooltip" data-placement="bottom" data-container="body" data-category="primary" data-size="medium" data-clipboard-text="f31a8921ade13c6658bf980ef006f7d6a0401eea" type="button"><svg class="s16 gl-icon gl-button-icon " data-testid="copy-to-clipboard-icon"><use href="/assets/icons-b25b55b72e1a86a9ca8055a5c421aae9b89fc86363fa02e2109034d756e56d28.svg#copy-to-clipboard"></use></svg>
+<button class="gl-button btn btn-icon btn-md btn-default " title="Copy commit SHA" aria-label="Copy commit SHA" aria-live="polite" data-toggle="tooltip" data-placement="bottom" data-container="body" data-category="primary" data-size="medium" data-clipboard-text="f31a8921ade13c6658bf980ef006f7d6a0401eea" type="button"><svg class="s16 gl-icon gl-button-icon " data-testid="copy-to-clipboard-icon"><use href="/assets/icons-3591e1b0dc5b9091969f4b703f7bdaffa0ca7b2c7953b0f3a7e7dc1e71c3e43d.svg#copy-to-clipboard"></use></svg>
 
 </button>
 
@@ -784,7 +385,7 @@ f31a8921
 
 </div>
 
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
   window.gl = window.gl || {};
   window.gl.webIDEPath = '/-/ide/project/tex12347/the-campaign-trail-mods/edit/master/-/Code%201%20-%20Wallace%201972%20-%20Chisholm.txt'
@@ -807,7 +408,7 @@ f31a8921
 
 
 
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 if ('loading' in HTMLImageElement.prototype) {
   document.querySelectorAll('img.lazy').forEach(img => {
@@ -822,13 +423,13 @@ if ('loading' in HTMLImageElement.prototype) {
     img.removeAttribute('data-src');
     img.classList.remove('lazy');
     img.classList.add('js-lazy-loaded');
-    img.dataset.testid = 'js_lazy_loaded_content';
+    img.dataset.testid = 'js-lazy-loaded-content';
   });
 }
 
 //]]>
 </script>
-<script nonce="MHXwzyG2QESahBbUNki2Rw==">
+<script nonce="0eG8SAYxduuOSM50EZsMAg==">
 //<![CDATA[
 gl = window.gl || {};
 gl.experiments = {};
